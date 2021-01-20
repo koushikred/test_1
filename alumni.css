@@ -1,0 +1,75 @@
+#bg-image{
+    background-image: url("https://image.freepik.com/free-photo/cute-girl-studying-computer-home_1303-25498.jpg");
+    background-size: cover;
+       height:400px;
+       /* font-family:  Sans-serif; */
+       
+}
+.icon{
+    font-size: 30px;
+    background-color: ;
+    opacity: 0.6;
+    padding: 10px;
+}
+.footer-color{
+    /* background-color:#5f9ea0; */
+    background-color: rgb(135, 135, 240);
+    padding-top:20px;
+    margin-top: 10px;
+}
+.bg-color{
+
+    background:linear-gradient(rgb(233,15,233),rgb(92,16,92));
+    margin-top: 10px;
+}
+.button{
+    background-color: rgb(216, 19, 51);
+    border-width: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    border-radius: 20px;
+}
+.img2{
+ border-radius: 20px;
+ border-width: 0px;
+ 
+}
+.card{
+    border-radius: 30px;
+}
+#home{
+    color:purple;
+    font-weight: bold;
+}
+#About{
+    font-weight: bold;
+    color:green;
+}
+#Facilities{
+    font-weight: bold;
+    color:rgb(56, 158, 199);
+}
+#blog{
+    color:orange;
+    font-weight: bold;
+}
+#team{
+    color:blue;
+    font-weight: bold;
+}
+#contactUs{
+    color:purple;
+    font-weight: bold;
+}
+#admission{
+    color: #ff7e75;
+    font-weight: bold;
+}
+.Facilities{
+    font-weight: bold;
+    color: white;
+    
+}
